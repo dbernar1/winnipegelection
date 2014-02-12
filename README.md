@@ -6,7 +6,7 @@ The website is powered by:
 
 * Ruby on Rails
 * SQLite3
-* Apache with Phushion Passenger
+* Apache with Phusion Passenger
 * Google News
 
 WinnipegElection.ca features interactive ward maps, ward statistics, historical information about past elections, and a calendar of election related events. Candidates are listed along with links to their web pages, email addresses, Facebook fan pages and Twitter feeds. News articles that mention candidates are also linked providing up to date information from a variety of media sources.
